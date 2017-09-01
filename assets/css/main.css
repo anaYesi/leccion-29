@@ -1,0 +1,245 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 100%;
+	max-width: 1594px;
+	margin: 0px;
+	background-color: red;
+}
+/*EJERCICIO 1*/
+/*.row:before, .row:after{
+	content: " ";
+	display: table; 
+}
+.row:after {
+	clear: both;
+}
+[class*="col-"]{
+	/*min-height: 7px;*/
+	/*padding: 12px;*/
+	/*float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:33.1%;
+	height:300px; 
+}*/
+
+
+/*EJERCICIO 2*/
+/*.row1:before, .row1:after{
+	content: " ";
+	display: table; 
+}
+.row1:after {
+	clear: both;
+}
+
+[class*="colu-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:99.9%;
+	height:600px;  
+}
+.colu-2{
+	width: 33.1%;
+	height: 300px
+
+}*/
+
+
+
+/*EJERCICIO 3*/
+/*.row2:before, .row2:after{
+	content: " ";
+	display: table; 
+}
+.row2:after {
+	clear: both;
+}
+[class*="colum-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:66.4%;
+	height:300px;  
+}
+.colum-2{
+	width: 33.1%;
+}
+.colum-3{
+	width: 33.1%;
+	float: right;
+	margin-top: 33.1%;
+}*/
+
+
+
+/*EJERCICIO 4*/
+/*.row3:before, .row3:after{
+	content: " ";
+	display: table; 
+}
+.row3:after {
+	clear: both;
+}
+[class*="column-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:99.8%;
+	height:300px;  
+}
+.column-2{
+	width: 33.1%;
+	height: 600px;
+}
+.column-3{
+	width: 33.1%;
+	height: 600px;
+}
+.column-4{
+	width: 33.1%;
+	height: 600px;
+}*/
+/*EJERCICIO 5*/
+/*.row4:before, .row4:after{
+	content: " ";
+	display: table; 
+}
+.row4:after {
+	clear: both;
+}
+[class*="columna-"]{
+	float: left;
+	border: 1px solid blue;
+	background: purple;
+	margin: 0.1%;
+	width: 33.1%;
+	height: 300px;
+}
+.columna-7{
+	float: right;
+}*/
+
+
+
+/*EJERCICIO 6*/
+/*.row5:before, .row5:after{
+	content: " ";
+	display: table; 
+}
+.row5:after {
+	clear: both;
+}
+[class*="columnas-"]{
+	float: left;
+	border: 1px solid blue;
+	background: purple;
+	margin: 0.1%;
+	width: 66.4%;
+	height: 603px;
+	margin-top: 10%;
+}
+.columnas-2{
+	width: 33.1%;
+	height: 300px;
+}*/
+
+
+/*EJERCICIO 7*/
+/*.row6:before, .row6:after{
+	content: " ";
+	display: table; 
+}
+.row6:after {
+	clear: both;
+}
+[class*="columnit-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:66.4%;
+	height:300px; 
+}
+.columnit-2{
+	width: 33.1%
+}
+.columnit-3{
+	
+	height: 600px;
+}
+.columnit-4{
+	width: 33.1%;
+	height: 600px;
+	float: right;
+}*/
+
+
+
+/*EJERCICIO 8*/
+/*.row7:before, .row7:after{
+	content: " ";
+	display: table; 
+}
+.row7:after {
+	clear: both;
+}
+[class*="columnita-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:33.1%;
+	height:600px; 
+}
+.columnita-4{
+	width: 66.4%;
+	height: 300px;
+}
+.columnita-5{
+	height: 300px;
+}*/
+
+
+
+/*EJERCICIO 9*/
+.row8:before, .row8:after{
+	content: " ";
+	display: table; 
+}
+.row8:after {
+	clear: both;
+}
+[class*="columnitas-"]{
+	float: left;
+	border: 1px solid blue; 
+	background: purple;
+	margin: 0.1%;
+	width:66.4%;
+	height:600px; 
+}
+.columnitas-2{
+	width: 33.2%;
+	height: 900px;
+}
+.clear{
+	clear: left;
+}
+.columnitas-3{
+	width: 66.4%;
+	height: 300px;
+	position: absolute;
+	top: 79%;
+}
+
+
+

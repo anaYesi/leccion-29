@@ -229,16 +229,19 @@
 }
 .columnitas-2{
 	width: 33.2%;
-	height: 900px;
+	height: 607px;
+	margin-top: 22%;
 }
 .clear{
 	clear: left;
+
 }
 .columnitas-3{
-	width: 66.4%;
+	width: 33.2%;
 	height: 300px;
-	position: absolute;
-	top: 79%;
+	margin-top: -22.4%;
+	margin-left: 33.3%; 
+
 }
 
 
